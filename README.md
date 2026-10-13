@@ -32,6 +32,9 @@
     <img src="https://img.shields.io/badge/amazons3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
     <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
     <img alt="Static Badge" src="https://img.shields.io/badge/claude-D97757?style=flat-square&logo=claude&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/vercel-000000?style=flat-square&logo=vercel&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/cloudflare-%23F38020?style=flat-square&logo=cloudflare&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/godaddy-%231BDBDB?style=flat-square&logo=godaddy&logoColor=white">
 </div>
 
 ### Here is...
